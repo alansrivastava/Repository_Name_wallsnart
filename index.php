@@ -1,5 +1,5 @@
 <?php
 	
-	echo 'ONE';
+	echo 'ONE.';
 
 ?>
